@@ -1,0 +1,15 @@
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/obj/Debug/net8.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/obj/Debug/net8.0/Shared.AssemblyInfoInputs.cache
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/obj/Debug/net8.0/Shared.AssemblyInfo.cs
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/obj/Debug/net8.0/Shared.csproj.CoreCompileInputs.cache
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/bin/Debug/net8.0/Shared.deps.json
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/bin/Debug/net8.0/Shared.dll
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/bin/Debug/net8.0/Shared.pdb
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/bin/Debug/net8.0/Domain.dll
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/bin/Debug/net8.0/Domain.pdb
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/obj/Debug/net8.0/Shared.csproj.AssemblyReference.cache
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/obj/Debug/net8.0/Shared.csproj.Up2Date
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/obj/Debug/net8.0/Shared.dll
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/obj/Debug/net8.0/refint/Shared.dll
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/obj/Debug/net8.0/Shared.pdb
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Shared/obj/Debug/net8.0/ref/Shared.dll
