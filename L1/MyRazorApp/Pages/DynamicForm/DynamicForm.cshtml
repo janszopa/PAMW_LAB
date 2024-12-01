@@ -1,0 +1,57 @@
+@page
+@model DynamicFormModel
+@{
+    ViewData["Title"] = "Dynamiczny Formularz z jQuery";
+}
+
+<h2>Dynamiczny Formularz z jQuery</h2>
+
+<form id="myForm">
+    <div>
+        <label for="name">Imię:</label>
+        <input type="text" id="name" name="name" />
+    </div>
+
+    <div>
+        <label for="email">Adres email:</label>
+        <input type="email" id="email" name="email" />
+    </div>
+
+    <div id="extraField" style="display: none;">
+        <label for="phone">Telefon:</label>
+        <input type="text" id="phone" name="phone" />
+    </div>
+
+    <button type="submit">Wyślij</button>
+</form>
+
+<!-- Wynik -->
+<div id="result"></div>
+
+<!-- Zewnętrzna biblioteka jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        // Dodanie dynamicznego pola, jeśli imię ma więcej niż 5 znaków
+        $('#name').keyup(function () { //keyup - gdy klawisz zostanie zwolniony
+            var nameLength = $(this).val().length;
+            if (nameLength > 5) {
+                $('#extraField').slideDown();  // Pokaż dodatkowe pole
+            } else {
+                $('#extraField').slideUp();  // Ukryj dodatkowe pole
+            }
+        });
+
+        // Obsługa wysyłania formularza
+        $('#myForm').submit(function (event) {
+            event.preventDefault();  // Zapobiega przeładowaniu strony
+            var name = $('#name').val();
+            var email = $('#email').val();
+            var phone = $('#phone').val();
+            
+            // Wyświetlenie wprowadzonego tekstu
+            $('#result').html(`<p>Imię: ${name}</p><p>Email: ${email}</p><p>Telefon: ${phone}</p>`);
+        });
+    });
+</script>

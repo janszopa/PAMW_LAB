@@ -1,0 +1,47 @@
+@using System.Globalization
+@using Newtonsoft.Json
+@{
+    var categories = ViewData["Categories"] as List<string>;
+    var averagePrices = ViewData["AveragePrices"] as List<string>;
+}
+
+<div class="card">
+    <div class="card-header">
+        <h4 class="card-title">Średnia cena produktów w różnych kategoriach</h4>
+    </div>
+    <div class="card-body">
+        <canvas id="averagePriceChart"></canvas>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var categories = @Html.Raw(JsonConvert.SerializeObject(categories));
+        var averagePrices = @Html.Raw(JsonConvert.SerializeObject(averagePrices));
+
+        var ctx = document.getElementById('averagePriceChart').getContext('2d');
+        var averagePriceChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: categories,
+                datasets: [{
+                    label: 'Średnia cena',
+                    data: averagePrices,
+                    backgroundColor: 'rgba(75, 192, 192, 0.5)',
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        min: 0
+                    }
+                }
+            }
+        });
+    });
+</script>

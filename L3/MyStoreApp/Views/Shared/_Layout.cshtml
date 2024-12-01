@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MyStoreApp</title>
+
+    <!-- Import CSS z now-ui-dashboard -->
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/assets/css/now-ui-dashboard.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/assets/demo/demo.css" asp-append-version="true" />
+</head>
+<body>
+
+    <div class="wrapper">
+        <!-- Sidebar -->
+        <div class="sidebar" data-color="orange" data-background-color="white" data-image="~/assets/img/sidebar-1.jpg">
+            <div class="logo">
+                <a href="/" class="simple-text logo-normal">
+                    MyStoreApp
+                </a>
+            </div>
+            <div class="sidebar-wrapper">
+                <ul class="nav">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">
+                            <i class="now-ui-icons design_app"></i>
+                            <p>Home</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">
+                            <i class="now-ui-icons ui-1_lock-circle-open"></i>
+                            <p>Privacy</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Products" asp-action="Index">
+                            <i class="now-ui-icons design_bullet-list-67"></i>
+                            <p>Product list</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Products" asp-action="Create">
+                            <i class="now-ui-icons ui-1_simple-add"></i>
+                            <p>Add new product</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Charts" asp-action="AveragePricePerCategory">
+                            <i class="now-ui-icons business_chart-bar-32"></i>
+                            <p>Sales analysis</p>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="main-panel">
+            <!-- Top Navbar -->
+            <nav class="navbar navbar-expand-lg bg-dark">
+                <div class="container-fluid">
+                    <div class="navbar-wrapper">
+                        <a class="navbar-brand" href="javascript:void(0)">@ViewData["Title"]</a>
+                    </div>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-bar navbar-kebab"></span>
+                        <span class="navbar-toggler-bar navbar-kebab"></span>
+                        <span class="navbar-toggler-bar navbar-kebab"></span>
+                    </button>
+                    <div class="collapse navbar-collapse justify-content-end" id="navigation">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="javascript:void(0)">
+                                    <i class="now-ui-icons users_single-02"></i>
+                                    <p>
+                                        <span class="d-lg-none d-md-block">Account</span>
+                                    </p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="javascript:void(0)">
+                                    <i class="now-ui-icons ui-1_bell-53"></i>
+                                    <p>
+                                        <span class="d-lg-none d-md-block">Notifications</span>
+                                    </p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="javascript:void(0)">
+                                    <i class="now-ui-icons location_world"></i>
+                                    <p>
+                                        <span class="d-lg-none d-md-block">Location</span>
+                                    </p>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <!-- Main Content -->
+            <div class="content" style="margin-top: 100px;">
+                <div class="container-fluid">
+                    @RenderBody()
+                </div>
+            </div>
+
+            <!-- Footer -->
+            <footer class="footer">
+                <div class="container-fluid">
+                    <nav>
+                        <ul>
+                            <li>
+                                <a href="https://example.com">
+                                    MyStoreApp
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://example.com/about">
+                                    About Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://example.com/blog">
+                                    Blog
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div class="copyright">
+                        &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="now-ui-icons ui-2_favourite-28"></i> by MyStoreApp
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <!-- Import JavaScript z now-ui-dashboard -->
+    <script src="~/assets/js/core/jquery.min.js"></script>
+    <script src="~/assets/js/core/popper.min.js"></script>
+    <script src="~/assets/js/core/bootstrap.min.js"></script>
+    <script src="~/assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
+    <script src="~/assets/js/now-ui-dashboard.min.js"></script>
+    <script src="~/assets/demo/demo.js"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

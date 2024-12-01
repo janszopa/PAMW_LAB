@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyRazorApp
+build_property.RootNamespace = MyRazorApp
+build_property.ProjectDir = /Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp/Pages/ajax/ajaxForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYWpheC9hamF4Rm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp/Pages/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp/Pages/ContactModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGFjdE1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp/Pages/DynamicForm/DynamicForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRHluYW1pY0Zvcm0vRHluYW1pY0Zvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L1/MyRazorApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-njvsipdyeh

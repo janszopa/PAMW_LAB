@@ -1,0 +1,62 @@
+@page
+@model AjaxFormModel
+@{
+    ViewData["Title"] = "Formularz z Ajax";
+}
+
+<h2>Formularz kontaktowy</h2>
+
+<form id="ajaxForm">
+    @Html.AntiForgeryToken() <!-- Token antyfałszywkowy (Cross Site Request Forgery)--> 
+    <div>
+        <label for="name">Imię:</label>
+        <input type="text" id="name" name="name" />
+    </div>
+
+    <div>
+        <label for="email">Adres email:</label>
+        <input type="email" id="email" name="email" />
+    </div>
+
+    <button type="submit">Wyślij</button>
+</form>
+
+<!-- Sekcja, gdzie zostanie wyświetlona odpowiedź z serwera -->
+<div id="result"></div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        // Pobieranie tokenu antyfałszywkowego
+        var token = $('input[name="__RequestVerificationToken"]').val();
+
+        // Obsługa formularza przy wysyłaniu danych Ajaxem
+        $('#ajaxForm').submit(function (event) {
+            event.preventDefault();  // Zapobiega przeładowaniu strony
+
+            // Pobranie danych z formularza
+            var formData = {
+                name: $('#name').val(),
+                email: $('#email').val()
+            };
+
+            // Wywołanie Ajax
+            $.ajax({
+                type: 'POST',
+                url: '/ajax/ajaxForm', // Adres strony Razor Pages obsługującej żądanie
+                data: formData,  // Dane z formularza
+                headers: {
+                    'RequestVerificationToken': token  // Dodanie tokenu antyfałszywkowego do nagłówka
+                },
+                success: function (response) {
+                    // Wyświetlenie odpowiedzi na stronie
+                    $('#result').html('<p>Serwer odpowiedział: ' + response.message + '</p>');
+                },
+                error: function (error) {
+                    $('#result').html('<p>Wystąpił błąd: ' + error.responseText + '</p>');
+                }
+            });
+        });
+    });
+</script>

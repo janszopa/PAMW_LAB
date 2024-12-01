@@ -1,0 +1,11 @@
+@page
+@model ConfirmationModel
+@{
+    ViewData["Title"] = "Potwierdzenie";
+}
+
+<h2>Dziękujemy za przesłanie wiadomości!</h2>
+
+<p><strong>Imię:</strong> @TempData["Name"]</p>
+<p><strong>Email:</strong> @TempData["Email"]</p>
+<p><strong>Wiadomość:</strong> @TempData["Message"]</p>

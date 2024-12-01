@@ -1,0 +1,73 @@
+@{
+    ViewData["Title"] = "Product List";
+}
+
+@model IEnumerable<MyStoreApp.Models.Product>
+
+<div class="card">
+    <div class="card-header">
+        <h4 class="card-title">Product List</h4>
+        <a asp-action="Create" class="btn btn-success float-right">Add New Product</a>
+    </div>
+    <div class="card-body">
+        <!-- Formularz filtrowania i sortowania -->
+        <form method="get" class="form-inline mb-3">
+            <input type="text" name="search" class="form-control mr-2" placeholder="Search by Name or Id" value="@ViewContext.HttpContext.Request.Query["search"]"/>
+            <select name="category" class="form-control mr-2">
+                <option value="">All Categories</option>
+                <option value="Books" selected="@(ViewContext.HttpContext.Request.Query["category"] == "Books")">Books</option>
+                <option value="Electronics" selected="@(ViewContext.HttpContext.Request.Query["category"] == "Electronics")">Electronics</option>
+                <option value="Films" selected="@(ViewContext.HttpContext.Request.Query["category"] == "Films")">Films</option>
+                <option value="Toys" selected="@(ViewContext.HttpContext.Request.Query["category"] == "Toys")">Toys</option>
+            </select>
+
+            <select name="isAvailable" class="form-control mr-2">
+                <option value="">All Availability</option>
+                <option value="true" selected="@(ViewContext.HttpContext.Request.Query["isAvailable"] == "true")">Available</option>
+                <option value="false" selected="@(ViewContext.HttpContext.Request.Query["isAvailable"] == "false")">Unavailable</option>
+            </select>
+
+            <select name="sortOrder" class="form-control mr-2">
+                <option value="">Sort By</option>
+                <option value="name" selected="@(ViewContext.HttpContext.Request.Query["sortOrder"] == "name")">Name a-z</option>
+                <option value="name_desc" selected="@(ViewContext.HttpContext.Request.Query["sortOrder"] == "name_desc")">Name z-a</option>
+                <option value="price" selected="@(ViewContext.HttpContext.Request.Query["sortOrder"] == "price")">Price Ascending</option>
+                <option value="price_desc" selected="@(ViewContext.HttpContext.Request.Query["sortOrder"] == "price_desc")">Price Descending</option>
+                <option value="category" selected="@(ViewContext.HttpContext.Request.Query["sortOrder"] == "category")">Category a-z</option>
+                <option value="category_desc" selected="@(ViewContext.HttpContext.Request.Query["sortOrder"] == "category_desc")">Category z-a</option>
+            </select>
+            <button type="submit" class="btn btn-primary">Filter</button>
+        </form>
+
+        <div class="table-responsive">
+            <table class="table">
+                <thead class="text-primary">
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Category</th>
+                        <th>Price</th>
+                        <th>Available</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var product in Model)
+                    {
+                        <tr>
+                            <td>@product.Id</td>
+                            <td>@product.Name</td>
+                            <td>@product.Category</td>
+                            <td>@product.Price</td>
+                            <td>@(product.IsAvailable ? "Yes" : "No")</td>
+                            <td>
+                                <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+                                <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

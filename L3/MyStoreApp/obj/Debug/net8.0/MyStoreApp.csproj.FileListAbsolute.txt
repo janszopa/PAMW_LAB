@@ -1,0 +1,102 @@
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/bin/Debug/net8.0/appsettings.Development.json
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/bin/Debug/net8.0/appsettings.json
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/bin/Debug/net8.0/MyStoreApp.staticwebassets.runtime.json
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/bin/Debug/net8.0/MyStoreApp
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/bin/Debug/net8.0/MyStoreApp.deps.json
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/bin/Debug/net8.0/MyStoreApp.runtimeconfig.json
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/bin/Debug/net8.0/MyStoreApp.dll
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/bin/Debug/net8.0/MyStoreApp.pdb
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.AssemblyInfoInputs.cache
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.AssemblyInfo.cs
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.csproj.CoreCompileInputs.cache
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.RazorAssemblyInfo.cache
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.RazorAssemblyInfo.cs
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets/msbuild.MyStoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets/msbuild.build.MyStoreApp.props
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyStoreApp.props
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyStoreApp.props
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/scopedcss/bundle/MyStoreApp.styles.css
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/scopedcss/projectbundle/MyStoreApp.bundle.scp.css
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.dll
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/refint/MyStoreApp.dll
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.pdb
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.genruntimeconfig.cache
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/ref/MyStoreApp.dll
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.csproj.AssemblyReference.cache
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.csproj.Up2Date
+/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L3/MyStoreApp/bin/Debug/net8.0/Data/products.json
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.csproj.AssemblyReference.cache
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.AssemblyInfoInputs.cache
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.AssemblyInfo.cs
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.csproj.CoreCompileInputs.cache
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.RazorAssemblyInfo.cache
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.RazorAssemblyInfo.cs
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.dll
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/refint/MyStoreApp.dll
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.pdb
+/Users/cyan/Downloads/L3/MyStoreApp/bin/Debug/net8.0/appsettings.Development.json
+/Users/cyan/Downloads/L3/MyStoreApp/bin/Debug/net8.0/appsettings.json
+/Users/cyan/Downloads/L3/MyStoreApp/bin/Debug/net8.0/Data/products.json
+/Users/cyan/Downloads/L3/MyStoreApp/bin/Debug/net8.0/MyStoreApp.staticwebassets.runtime.json
+/Users/cyan/Downloads/L3/MyStoreApp/bin/Debug/net8.0/MyStoreApp
+/Users/cyan/Downloads/L3/MyStoreApp/bin/Debug/net8.0/MyStoreApp.deps.json
+/Users/cyan/Downloads/L3/MyStoreApp/bin/Debug/net8.0/MyStoreApp.runtimeconfig.json
+/Users/cyan/Downloads/L3/MyStoreApp/bin/Debug/net8.0/MyStoreApp.dll
+/Users/cyan/Downloads/L3/MyStoreApp/bin/Debug/net8.0/MyStoreApp.pdb
+/Users/cyan/Downloads/L3/MyStoreApp/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets/msbuild.MyStoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets/msbuild.build.MyStoreApp.props
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyStoreApp.props
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyStoreApp.props
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/scopedcss/bundle/MyStoreApp.styles.css
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/scopedcss/projectbundle/MyStoreApp.bundle.scp.css
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.csproj.Up2Date
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/MyStoreApp.genruntimeconfig.cache
+/Users/cyan/Downloads/L3/MyStoreApp/obj/Debug/net8.0/ref/MyStoreApp.dll
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/bin/Debug/net8.0/appsettings.Development.json
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/bin/Debug/net8.0/appsettings.json
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/bin/Debug/net8.0/Data/products.json
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/bin/Debug/net8.0/MyStoreApp.staticwebassets.runtime.json
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/bin/Debug/net8.0/MyStoreApp
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/bin/Debug/net8.0/MyStoreApp.deps.json
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/bin/Debug/net8.0/MyStoreApp.runtimeconfig.json
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/bin/Debug/net8.0/MyStoreApp.dll
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/bin/Debug/net8.0/MyStoreApp.pdb
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/MyStoreApp.csproj.AssemblyReference.cache
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/MyStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/MyStoreApp.AssemblyInfoInputs.cache
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/MyStoreApp.AssemblyInfo.cs
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/MyStoreApp.csproj.CoreCompileInputs.cache
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/MyStoreApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/MyStoreApp.RazorAssemblyInfo.cache
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/MyStoreApp.RazorAssemblyInfo.cs
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/staticwebassets/msbuild.MyStoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/staticwebassets/msbuild.build.MyStoreApp.props
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyStoreApp.props
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyStoreApp.props
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/scopedcss/bundle/MyStoreApp.styles.css
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/scopedcss/projectbundle/MyStoreApp.bundle.scp.css
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/MyStoreApp.csproj.Up2Date
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/MyStoreApp.dll
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/refint/MyStoreApp.dll
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/MyStoreApp.pdb
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/MyStoreApp.genruntimeconfig.cache
+/Users/cyan/Library/Mobile Documents/com~apple~CloudDocs/pw/programowanie aplikacji/lab/lab2/MyStoreApp/obj/Debug/net8.0/ref/MyStoreApp.dll

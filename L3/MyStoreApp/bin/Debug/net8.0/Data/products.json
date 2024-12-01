@@ -1,0 +1,79 @@
+[
+  {
+    "Id": 3,
+    "Name": "dsa",
+    "Category": "Films",
+    "Price": 67.0,
+    "IsAvailable": true
+  },
+  {
+    "Id": 5,
+    "Name": "cqr",
+    "Category": "Toys",
+    "Price": 43.0,
+    "IsAvailable": false
+  },
+  {
+    "Id": 6,
+    "Name": "dasd",
+    "Category": "Books",
+    "Price": 454.0,
+    "IsAvailable": true
+  },
+  {
+    "Id": 7,
+    "Name": "fakfasfsakl",
+    "Category": "Accessories",
+    "Price": 23.0,
+    "IsAvailable": false
+  },
+  {
+    "Id": 8,
+    "Name": "Laptop",
+    "Category": "Electronics",
+    "Price": 1500.0,
+    "IsAvailable": true
+  },
+  {
+    "Id": 9,
+    "Name": "Keyboard",
+    "Category": "Electronics",
+    "Price": 200.0,
+    "IsAvailable": true
+  },
+  {
+    "Id": 10,
+    "Name": "James Bond fl",
+    "Category": "Films",
+    "Price": 50.0,
+    "IsAvailable": true
+  },
+  {
+    "Id": 11,
+    "Name": "Harry Potter",
+    "Category": "Books",
+    "Price": 30.0,
+    "IsAvailable": true
+  },
+  {
+    "Id": 12,
+    "Name": "Ball",
+    "Category": "Toys",
+    "Price": 10.0,
+    "IsAvailable": true
+  },
+  {
+    "Id": 13,
+    "Name": "USB type C Charger",
+    "Category": "Accessories",
+    "Price": 20.0,
+    "IsAvailable": true
+  },
+  {
+    "Id": 14,
+    "Name": "njl",
+    "Category": "Books",
+    "Price": 67.0,
+    "IsAvailable": false
+  }
+]
