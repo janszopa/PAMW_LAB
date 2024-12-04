@@ -19,7 +19,16 @@ namespace MyRestApi.Services
         public async Task<ServiceResponse<Product>> CreateProductAsync(Product newProduct)
         {
             var result = new ServiceResponse<Product>();
-
+            
+            // Sprawdzenie, czy kategoria istnieje
+            var category = await _dataContext.Categories.FindAsync(newProduct.CategoryId);
+            if (category == null)
+            {
+                result.Message = "Category not found.";
+                result.Success = false;
+                return result;
+            }
+            
             try
             {
                 await _dataContext.Products.AddAsync(newProduct);
@@ -76,7 +85,7 @@ namespace MyRestApi.Services
 
             try
             {
-                result.Data = await _dataContext.Products.FirstAsync(p => p.Id == id);
+                result.Data = await _dataContext.Products.Include(p => p.Category).FirstAsync(p => p.Id == id);
 
                 result.Success = true;
                 result.Message = "Data retrieved successfully";
@@ -96,7 +105,7 @@ namespace MyRestApi.Services
 
             try
             {
-                result.Data = await _dataContext.Products.ToListAsync();
+                result.Data = await _dataContext.Products.Include(p => p.Category).ToListAsync();
                 result.Success = true;
                 result.Message = "Data retrieved successfully";
             }
@@ -121,6 +130,8 @@ namespace MyRestApi.Services
                 {
                     product.Name = updatedProduct.Name;
                     product.Price = updatedProduct.Price;
+                    product.CategoryId = updatedProduct.CategoryId;
+                    product.Category = await _dataContext.Categories.FindAsync(updatedProduct.CategoryId);
 
                     await _dataContext.SaveChangesAsync();
 

@@ -9,3 +9,15 @@
 /Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Domain/obj/Debug/net8.0/refint/Domain.dll
 /Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Domain/obj/Debug/net8.0/Domain.pdb
 /Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Domain/obj/Debug/net8.0/ref/Domain.dll
+/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/bin/Debug/net8.0/Domain.dll
+/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/obj/Debug/net8.0/Domain.dll
+/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/obj/Debug/net8.0/ref/Domain.dll

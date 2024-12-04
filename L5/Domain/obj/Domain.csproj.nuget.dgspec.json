@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Domain/Domain.csproj": {}
+    "/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Domain/Domain.csproj": {
+    "/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Domain/Domain.csproj",
+        "projectPath": "/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/Domain.csproj",
         "packagesPath": "/Users/mikolajguzek-szopa/.nuget/packages/",
-        "outputPath": "/Users/mikolajguzek-szopa/PW_SEM5/PAMW_LAB/L5/Domain/obj/",
+        "outputPath": "/Users/mikolajguzek-szopa/PW_SEM5/WebAndMobApps/PAMW_LAB/L5/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mikolajguzek-szopa/.nuget/NuGet/NuGet.Config"
